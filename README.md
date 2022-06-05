@@ -1,9 +1,24 @@
 ### Hi there 👋
 
 ## By the way here are some of my statistics 🚀
-![elephantcastle's github stats](https://github-readme-stats.vercel.app/api?username=elephantcastle&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elephantcastle&theme=tokyonight" alt="mystreak"/>
-![elephantcastle's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elephantcastle&theme=tokyonight&layout=compact)
+
+<table border="0" align="center">
+  <tr border="0">
+    <td width="50%" align="center">
+      ![elephantcastle's github stats](https://github-readme-stats.vercel.app/api?username=elephantcastle&show_icons=true&theme=tokyonight)
+      <br></br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=elephantcastle&theme=tokyonight" alt="mystreak"/>
+    </td>
+
+   <td width="50%" align="center">
+     ![elephantcastle's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elephantcastle&theme=tokyonight&layout=compact)
+   </td>
+   </tr>
+</table>
+
+
+
+
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
