@@ -1,20 +1,26 @@
 ### Hi there 👋
 
-## By the way here are some of my statistics 🚀
-
 <table border="0" align="center">
-  <tr border="0">
-    <td width="50%" align="center">
-      ![elephantcastle's github stats](https://github-readme-stats.vercel.app/api?username=elephantcastle&show_icons=true&theme=tokyonight)
-      <br></br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=elephantcastle&theme=tokyonight" alt="mystreak"/>
-    </td>
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=elephantcastle&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elephantcastle&theme=dark&hide_border=true" />
 
-   <td width="50%" align="center">
-     ![elephantcastle's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elephantcastle&theme=tokyonight&layout=compact)
-   </td>
-   </tr>
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elephantcastle&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
 </table>
+
+<br>
 
 
 
