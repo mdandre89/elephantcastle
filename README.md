@@ -1,5 +1,4 @@
-### Hi there 👋
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=logo&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=logo&logo=node.js&logoColor=white)&nbsp;
