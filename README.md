@@ -2,7 +2,7 @@
 
 <table border="0" align="center">
 <tr border="0">
-<td width="50%" align="center">
+<td width="50%" align="left">
   
 ### Tech Stack
 
