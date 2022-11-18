@@ -7,10 +7,12 @@
 ### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=logo&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=logo&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=logo&logo=css3&logoColor=white)&nbsp;
+![Less](https://img.shields.io/badge/less-2B4C80?style=logo&logo=less&logoColor=white)&nbsp;
+\
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=logo&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=logo&logo=python&logoColor=ffdd54)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=logo&logo=html5&logoColor=white)&nbsp;
-![Less](https://img.shields.io/badge/less-2B4C80?style=logo&logo=less&logoColor=white)&nbsp;
 \
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=logo&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=logo&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
@@ -54,21 +56,6 @@
 </table>
 
 <br>
-
-
-
-
-
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/elephantcastle/count.svg" />  
-</p>
-
-
 
   <br>
   <p align="center">
